@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-bottom:100px;
+}
+
+.nav-btn{
+    background-color: #21B573;
+    padding: 7px 19px;
+    border-radius: 20px;
+    color: white;
+    border: none;
+}
+
+.bg{
+    background-color: #F0FFF0;
+}
+
+.data{
+    background-color: #F8FFFB;
+    border: none;
+}
+.data-all{
+    border: none;
+    box-shadow: 5px 5px 15px lightgray;
+}
+
+.data-all:hover{
+    border: 2px solid #21B573;
+    border-radius: 5px;
+    background-color: white;
+}
+
+/* Course Section */
+
+.course-card{
+    border: none;
+    box-shadow: 5px 5px 15px lightgray;
+}
